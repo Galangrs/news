@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/H8-P2-S4/fsjs-p2-v4-iproject-client-Galangrs
+[submodule "server"]
+	path = server
+	url = https://github.com/H8-P2-S4/fsjs-p2-v4-iproject-server-Galangrs
